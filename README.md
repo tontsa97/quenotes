@@ -39,3 +39,13 @@ Tämä projekti on lisensoitu MIT-lisenssillä. Katso lisätietoja LICENSE -tied
 
 👨‍💻 Kehittäjä
 GitHub: tontsa97
+
+🤝 Osallistuminen
+Olet tervetullut osallistumaan projektiin! Voit tehdä pull requestin tai avata uuden issue:n.
+
+Forkkaa repositorio
+Luo oma branch (git checkout -b feature/ominaisuus)
+Commitoi muutokset (git commit -am 'Lisää uusi ominaisuus')
+Pushaa branch (git push origin feature/ominaisuus)
+Luo uusi Pull Request
+Kiitos osallistumisestasi!
