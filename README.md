@@ -1,33 +1,41 @@
-# Quenotes
+# 🌟 Quenotes 🌟
 
-Quenotes on yksinkertainen verkkosivuprojekti, joka näyttää satunnaisia runoja ja viisauksia. Sivulla on dark theme ja se on toteutettu HTML:llä, CSS:llä ja JavaScriptillä.
+Quenotes on yksinkertainen ja tyylikäs verkkosivuprojekti, joka näyttää satunnaisia runoja ja viisauksia. Sivulla on tumma teema ja se on toteutettu HTML:llä, CSS:llä ja JavaScriptillä.
 
-## Käyttö
+## 🎯 Ominaisuudet
+
+- 🌑 Tumma teema
+- ✨ Näyttää satunnaisia runoja ja viisauksia
+- 🔄 Päivitä lainaus "Uusi lainaus" -painikkeella
+
+## 🚀 Käyttöönotto
 
 Seuraa alla olevia ohjeita saadaksesi projektin toimimaan paikallisesti.
 
-### Asennus
+### 1. Asennus
 
-1. Kloonaa repositorio koneellesi:
-   ```bash
-   git clone https://github.com/tontsa97/quenotes.git
+Kloonaa repositorio koneellesi:
+```bash
+git clone https://github.com/tontsa97/quenotes.git
 Siirry projektikansioon:
+
 bash
 Kopioi koodi
 cd quenotes
-Käyttö
+2. Käyttö
 Avaa index.html selaimessa:
+
 Voit avata tiedoston suoraan selaimessa tai käyttää paikallista palvelinta, kuten Live Server -laajennusta Visual Studio Codessa.
-Tiedostot
+📁 Tiedostot
 index.html: HTML-pohja sivulle.
 styles.css: Tyylitiedosto, joka määrittää sivun ulkoasun.
 script.js: JavaScript-tiedosto, joka sisältää logiikan satunnaisten lainausten näyttämiseen.
-Ominaisuudet
-Tumma teema.
-Näyttää satunnaisia runoja ja viisauksia.
-Päivitä lainaus "Uusi lainaus" -painikkeella.
-Lisenssi
+💡 Käyttöopas
+Avaa selaimessa: Käynnistä projekti avaamalla index.html tiedosto selaimessasi.
+Nauti lainauksista: Sivusto näyttää satunnaisia runoja ja viisauksia aina, kun sivu ladataan.
+Päivitä lainaus: Klikkaa "Uusi lainaus" -painiketta saadaksesi uuden lainauksen.
+📜 Lisenssi
 Tämä projekti on lisensoitu MIT-lisenssillä. Katso lisätietoja LICENSE -tiedostosta.
 
-Kehittäjä
-tontsa97
+👨‍💻 Kehittäjä
+GitHub: tontsa97
